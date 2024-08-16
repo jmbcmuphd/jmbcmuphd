@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jmbcmuphd
 - 👀 I’m interested in Machine Learning including GenAI / LLMs
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning LangGraph
 - 💞️ I’m looking to collaborate on GenAI / LLM projects
 - 📫 How to reach me https://www.linkedin.com/in/jonathan-becker-phd
 - 😄 Pronouns: He/Him
